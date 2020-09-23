@@ -1,0 +1,11 @@
+frmMenu = 44, 44, 383, 410, C, 22, 22, 361, 388, C
+frmMain = 44, 44, 383, 410, C, 22, 22, 361, 388, C
+Module2 = 22, 22, 361, 388, Z
+frmChat = 88, 88, 427, 454, C, -6, 11, 502, 325, C
+frmIM = 0, 0, 325, 352, C, 87, 94, 412, 446, C
+mCoolMenu = 176, 176, 504, 528, C
+CMyItemData = 0, 0, 328, 352, C
+CMyItemDatas = 22, 22, 350, 374, C
+HelpCallBack = 44, 44, 372, 396, C
+WndCoolMenu = 66, 66, 394, 418, C
+frmTooltip = 0, 0, 0, 0, C, 176, 176, 501, 528, C
